@@ -1,18 +1,19 @@
 ---
 layout: post
-title: A well deserved gift for a Doctor!
+title: Lovely Rose Cupcakes!
 postHero: /images/herobg.jpg
-author: Aubrey
+author: Anonimous
 authorTwitter: https://twitter.com/mhartl
-gravatar: /images/customer2e.jpg
+gravatar: /images/rk-anonymous.png
 postFooter: Thank you! -<a href="#"> Ryle's Kitchen</a>
 ---
 
 
-Finding the right words isn't easy.
-This helps us to create a meaningful message for our family
-doctor! 
+Ryle's Kitchen by far exceeded my expectations.
+Fantastic job with the cupcakes! 
+It was so beautiful that I did NoT want to cut it at all! 
 
-<img class="pull-left" src="/images/cakeT-220727-a.png" alt="doctor cake">
+<img class="pull-left" src="/images/cakeT-220727-b.png" alt="doctor cake">
 
-Thank you so much for your excellent work!
+The cupcakes tasted absolutely amazing as well. 
+Thank you for an amazing job.

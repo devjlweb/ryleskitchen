@@ -4,7 +4,7 @@ title: Graduation Cake!
 postHero: /images/graduation.png
 author: Anonimous
 authorTwitter: https://twitter.com/mhartl
-gravatar: /images/rk-favicon.png
+gravatar: /images/rk-anonymous.png
 postFooter: Thank you! -<a href="#"> Ryle's Kitchen</a>
 ---
 
