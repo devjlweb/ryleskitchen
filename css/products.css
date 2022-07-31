@@ -1,0 +1,33 @@
+Basic demo styles */
+ /* body {
+	padding-top: 100px;
+} */
+
+/* Pricing */
+.colors {
+  display: none;
+/*   background-color: salmon;
+  color: white;
+  width: 100px;
+  height: 100px; */
+}
+
+.card-title {
+  justify-content: start;
+}
+.card-text {
+  display: none;
+}
+
+
+.show-cart li {
+  display: flex;
+}
+.card {
+  margin-bottom: 20px;
+}
+.card-img-top {
+  width: 200px;
+  height: 200px;
+  align-self: center;
+}
