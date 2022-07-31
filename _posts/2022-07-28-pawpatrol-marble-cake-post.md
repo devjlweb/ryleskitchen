@@ -4,7 +4,7 @@ title: Paw patrol theme cake!
 postHero: /images/herobg.jpg
 author: Anonimous
 authorTwitter: https://twitter.com/mhartl
-gravatar: /images/rk-anonymous.png
+gravatar: /images/customer6.png
 postFooter: Thank you! -<a href="#"> Ryle's Kitchen</a>
 ---
 
