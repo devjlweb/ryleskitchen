@@ -22,9 +22,9 @@ title: Ryle's Kitchen | Cakes, Cupcakes, Brownies, Donuts, Pastries
 email: joan@ryleskitchen.com
 description: >- # this means to ignore newlines until "baseurl:"
   The best place to order customized cakes online, also offers an array of products including cupcakes, brownies, donuts, pastries and more. For Birthday or any special events and occasions.
-baseurl: "https://www.ryleskitchen.com/blog" # the subpath of your site, e.g. /blog
-url: "https://www.ryleskitchen.com/blog" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://www.ryleskitchen.com" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jekyllrb
 github_username:  devjlweb
 
 # Build settings
