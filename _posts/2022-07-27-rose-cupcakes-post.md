@@ -13,7 +13,7 @@ Ryle's Kitchen by far exceeded my expectations.
 Fantastic job with the cupcakes! 
 It was so beautiful that I did NoT want to cut it at all! 
 
-<img class="pull-left" src="/images/cakeT-220727-b.png" alt="doctor cake">
+<img class="pull-left" src="/images/cakeT-220727-b.png" alt="cupcake image">
 
 The cupcakes tasted absolutely amazing as well. 
 Thank you for an amazing job.
