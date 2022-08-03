@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Ryle's Kitchen | Cakes, Cupcakes, Brownies, Donuts, Pastries
+title: Order cakes online Fiji | Cupcakes, Brownies, Donuts, Pastries | Shop online
 email: joan@ryleskitchen.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The best place to order customized cakes online, also offers an array of products including cupcakes, brownies, donuts, pastries and more. For Birthday or any special events and occasions.
+  The best place to order cakes online in Fiji, also offers an array of products including cupcakes, brownies, donuts, pastries and more. For Birthday or any special events and occasions.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.ryleskitchen.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
