@@ -3,7 +3,7 @@ layout: post
 title: So Yummy! Worth it!
 postHero: /images/herobg.jpg
 author: Aubrey
-authorTwitter: https://twitter.com/mhartl
+authorTwitter: https://twitter.com/ryleskitchen
 gravatar: /images/customer2e.jpg
 postFooter: Thank you! -<a href="#"> Ryle's Kitchen</a>
 ---

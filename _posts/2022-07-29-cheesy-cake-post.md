@@ -3,7 +3,7 @@ layout: post
 title: Cheesy Cake!
 postHero: /images/herobg.jpg
 author: Anonimous
-authorTwitter: https://twitter.com/mhartl
+authorTwitter: https://twitter.com/ryleskitchen
 gravatar: /images/customer3.png
 postFooter: Thank you! -<a href="#"> Ryle's Kitchen</a>
 ---

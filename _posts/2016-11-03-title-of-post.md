@@ -3,7 +3,7 @@ layout: post
 title: Sooooo Yummy!!!!!!
 postHero: /images/icingDrop.png
 author: Allysa
-authorTwitter: https://twitter.com/mhartl
+authorTwitter: https://twitter.com/ryleskitchen
 gravatar: /images/customer1e.jpg
 postFooter: Additional information, and maybe a <a href="#">link or  two</a>
 ---

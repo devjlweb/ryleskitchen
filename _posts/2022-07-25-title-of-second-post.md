@@ -3,7 +3,7 @@ layout: post
 title: Birthday Cake!
 postHero: /images/herobg.jpg
 author: KAte
-authorTwitter: https://twitter.com/mhartl
+authorTwitter: https://twitter.com/ryleskitchen
 gravatar: /images/customer1e.jpg
 postFooter: Thank you! -<a href="#"> Ryle's Kitchen</a>
 ---
