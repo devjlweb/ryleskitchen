@@ -1,18 +1,16 @@
 ---
 layout: post
-title: Chocolate Cake!
+title: A heavenly Cake Dessert!
 postHero: /images/herobg.jpg
 author: Anonimous
 authorTwitter: https://twitter.com/ryleskitchen
-gravatar: /images/customer5.png
+gravatar: /images/customer4.png
 postFooter: Thank you! -<a href="#"> Ryle's Kitchen</a>
 ---
 
 
-I just wanted to let you know that the cake was absolutely perfect. We all agreed after the first bite that it was the best chocolate cake we'd ever eaten. It was unanimous, it was
-also beautifully decorated.
+I have to say, it was an experience I won't soon forget. From the moment I placed my order to the moment I took my first bite, everything was perfect.
 
-<img class="pull-left" src="/images/073022-1.png" alt="ube macapuno rolls image">
+<img class="pull-left" src="/images/073022-2.png" alt="cake dessert">
 
-It was unanimous, it was also beautifully decorated.
-I couldn't be happier with what you did. Thanks again!
+ I would highly recommend Ryle's Kitchen to anyone looking for a delicious and beautifully crafted cake dessert. The ordering process was easy. I can't wait to try some of the other flavors available - I have a feeling they'll be just as amazing.
