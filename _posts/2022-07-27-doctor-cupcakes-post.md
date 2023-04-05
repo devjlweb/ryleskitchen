@@ -13,6 +13,6 @@ Finding the right words isn't easy.
 This helps us to create a meaningful message for our family
 doctor! 
 
-<img class="pull-left" src="/images/cakeT-220727-a.png" alt="doctor cake image">
+<img class="pull-left" src="/images/cakeT-220727-a.png" alt="doctor cake image"><br>
 
 Thank you so much for your excellent work!

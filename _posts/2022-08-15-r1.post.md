@@ -11,6 +11,6 @@ postFooter: Thank you! -<a href="#"> Ryle's Kitchen</a>
 
 The Red Cake was one of the best decisions I've made! The cake looked stunning, with its vibrant red color and intricate rose design. But the taste was even better than the look!
 
-<img class="pull-left" src="/images/081522-2.png" alt="red rose cake">
+<img class="pull-left" src="/images/081522-2.png" alt="red rose cake"><br>
 
 Thank you so much for creating such a masterpiece!
